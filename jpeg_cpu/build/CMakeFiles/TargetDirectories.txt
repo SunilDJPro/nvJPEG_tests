@@ -1,0 +1,3 @@
+/home/sunildj/nvJPEG_tests/jpeg_cpu/build/CMakeFiles/jpeg_cpu.dir
+/home/sunildj/nvJPEG_tests/jpeg_cpu/build/CMakeFiles/edit_cache.dir
+/home/sunildj/nvJPEG_tests/jpeg_cpu/build/CMakeFiles/rebuild_cache.dir

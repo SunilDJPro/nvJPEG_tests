@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/jpeg_cpu.dir/src/main.cpp.o CMakeFiles/jpeg_cpu.dir/src/jpeg_cpu.cpp.o -o jpeg_cpu  /usr/lib/x86_64-linux-gnu/libjpeg.so 
